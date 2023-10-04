@@ -41,9 +41,10 @@ Within the main.py document - adjust the following parameters.
 
 | Parameter     | Data Type      | 
 |:-------------:|:-------------:|
-| Search_location  | STRING | 
-| Search_item   | STRING  | 
-| radius | INTEGER | 
+| Left-aligned  | Left-aligned  | 
+| Search_location  | *STRING* | 
+| Search_item   | *STRING*  | 
+| radius | *INTEGER* | 
 
 # Features <a name="Features"></a>
 - Search for any term available on Google maps around a specified search location.

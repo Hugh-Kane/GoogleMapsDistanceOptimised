@@ -3,6 +3,7 @@ import requests
 import json
 import os 
 import heapq
+import pandas as pd
 
 
 """
@@ -25,6 +26,7 @@ class GoogleMapsClient:
     location_query = None
     data_type= 'json'
     origin_place_id = None
+    output_result = 'Short'
 
 
     def __init__(self,api_key=None,address=None):
@@ -58,11 +60,13 @@ class GoogleMapsClient:
         self.origin_place_id = origin_place_id
         return lat,lng
     
-    def search_nearby(self,keyword="corner shop",radius=500,location=None):
+    def search_nearby(self,keyword="corner shop",radius=500,location=None,output_result = None):
         lat = self.lat
         lng = self.lng
         if location != None:
             lat,lng = self.extract_lat_lng(location)
+        if output_result:
+            self.output_result = output_result
         endpoint = "https://maps.googleapis.com/maps/api/place/nearbysearch/json"
         parameters = {
             "keyword": keyword,
@@ -95,18 +99,23 @@ class GoogleMapsClient:
     
     def sort_through_list(self,search_nearby_results):
         # Convert the data into a list of tuples (park name, Overall score)
-        park_scores = [(-park_data["Overall score"],park_name) for park_name, park_data in search_nearby_results.items()]
+        scores = [(-search_data["Overall score"],location_name) for location_name, search_data in search_nearby_results.items()]
 
         # Convert the list into a min-heap
-        heapq.heapify(park_scores)
+        heapq.heapify(scores)
 
-        # Now, park_scores contains the parks sorted by Overall score in ascending order (min-heap)
-        # To get the parks in order, you can pop elements from the heap.
+        # Now, scores contains the locations sorted by Overall score in ascending order (min-heap)
+        # To get the locations in order, you can pop elements from the heap.
 
-        while park_scores:
-            overall_score,park_name = heapq.heappop(park_scores)
-            print(f"{park_name}: {search_nearby_results[park_name]}")
-            #print(f"{park_name}: {overall_score}")
+        while scores:
+            overall_score,location_name = heapq.heappop(scores)
+            if self.output_result == "Long":
+                print(f"{location_name}: {search_nearby_results[location_name]}")
+            elif self.output_result == "Short":
+                print(f"{location_name}: {search_nearby_results[location_name]['Overall score']}")
+            else:
+                raise Exception("Please input a correct output_result \n either 'short' or 'long'")
+
     
     def extract_key_info_helper(self):
         with open('output.json', 'r') as json_file:
@@ -146,7 +155,7 @@ class GoogleMapsClient:
 
 
         params = {
-            'key' : API_key,
+            'key' : self.api_key,
             'origins': f"place_id:{origin_placeID}",
             #'destinations': f"place_id:{E15_2GR}|place_id:{MSQ}",
             'destinations': f"place_id:{destination_placeID}",

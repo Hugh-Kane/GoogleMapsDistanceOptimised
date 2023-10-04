@@ -11,7 +11,7 @@ def main():
     radius = 200
 
     client = GoogleMapsClient(api_key=API_key,address= search_location)
-    search_nearby_results = client.search_nearby(search_item,radius=radius)
+    search_nearby_results = client.search_nearby(search_item,radius=radius,output_result='Short')
 
     client.pretty_json(search_nearby_results)
 

@@ -1,6 +1,6 @@
 {
   "html_attributions": [],
-  "next_page_token": "ATJ83zguaINbioqEkaSfTuBRrecNnr4PVEffb4r7cpESj0nvgSBYrS72G_eaax-1rttH-lKntHx98gGp0Ia9o5J1f5KNzadNcsL2DyzbgWTad2cHxB1njUz9NnVVAItyhJrz19pG0P-S3rZe6LQ_2dLONocq5LB26cnV4hYDkByatIEvDeO1GQmgCm70ZWcTRzaVfQQ94abPqSCSAFig0BbhoUcb6XvZRKOgzCL-vZGvmt1-kMjPwshZWsF31aC6PFg0TMgZstZtVEzH3RcglciCQsvzbtWybcb8KQBcg4rUzGviPZyL3HT5Slx-ml9fis7xImteIb4DwuXmagcQ7NGc6EmHwCWcpq_Z2-d6PIS8wzr4FGr6y48lRVd5YzdCr47L5i0BeAZngyNEfJB8DHtf-FuX0E3Q3uCcpwz6MjShW7ARzxn6ExmE4DQ",
+  "next_page_token": "ATJ83zgYmctqZmjaaUkL8Euy0rKKPQTZLOWuThweuMVanV2kF_DSy7jiiiQCaNH9i0mvaPXZ9g6tp5XxkAp_MSzHLQToCL2BssaYbkIBtC9-WQecGGFeAt6k9fkdXUW5s35yQdrTu2wSCKT43oSHPF9fSlOg1u9wjD4ADAv2Isopw_GdeGZXd3iE5qYFm2ncf37X1RJmaBY1Y_NVYNJzHzDt6cfhtVC1N5FXYJRZl-xwMVxBrRbCtCrwyaC8fUV6O4121_d_j0n5xf6gH_SaLmuSJl2OeoS9FebNhUQMcLsutL-sSaLCClKfqMpQP3SD2Rw_YwT7grehk3WrD3njsds7VzDSSI930Mcc0PBMEdKF46_pOrjTu4C36sReJCvn9_2aU3mlsFw9rLTw5NdjzSUicGRfqAMYO3Tkis2AgijkJAg94c11CkmkHZM",
   "results": [
     {
       "business_status": "OPERATIONAL",
@@ -33,7 +33,7 @@
           "html_attributions": [
             "<a href=\"https://maps.google.com/maps/contrib/115838059726171352430\">A Google User</a>"
           ],
-          "photo_reference": "ATJ83zj63s5iwuRplRTh5EEttd_aNCzHc1WfQEoPxww1KgwpCO2lP4YZZYhYHIonX5dyFKRoSiQxltihxb8pbFynJ-XiaMzB4Ah2goc3tJHGqU2SkJwLH3Ffe4xd-woDX5NIUryTQfc_6ERl-X-V7TLotoyONQvIbXbKelTFRdNQA2feWJ0X",
+          "photo_reference": "ATJ83zgSxOFnUgPwfYUhXci1ObGO-KjVpSaGiAksYhyArdRHKeG-Nx9i9__VpgfPgEP3L44iN4xZu3S4yd5CcNnz_pOaQHnvs9N6ak1RKCx1lPJBEo25KhTBuY-yvbNet6Rchwuun8-OrObh1WofNg91Why3MoNaD2aKMLvR7j3bt-8tOzAF",
           "width": 5504
         }
       ],
@@ -48,8 +48,8 @@
       "scope": "GOOGLE",
       "types": [
         "cafe",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ],
       "user_ratings_total": 307,
@@ -86,7 +86,7 @@
           "html_attributions": [
             "<a href=\"https://maps.google.com/maps/contrib/109784807058740368582\">A Google User</a>"
           ],
-          "photo_reference": "ATJ83zhxEKSFBbYnafCRgE9oKkeYONvdHMeoXtgZesmBEnsStO4fWGUA5HxECUudnAO2uaWdfyZ-btqtqBGYSY9M5uhrUN0ZvqesvUybibb3_3MrjGA9Kg0hEBIMeM7j24tmWQoc4dlSYAILjSSJiGJ-49Ugzl5tbh5DfmuHs47OkYk5jfE",
+          "photo_reference": "ATJ83zgEPncxav7hE_BSqEDcaeBsQfiP9y0NG0zJQ42cMBAziSm5K8z9zdCtB0piapN2leKPlEuMq8_Z6Qihg_tJMuQ_POIXv_SWxOxOib5GByTQfp-Rtdwu6uRaVxx_G8azohbclsF0M_oJ3LILMxJ2AwWrhBXgyUa_kFtW3uUR2Ry0llA",
           "width": 4032
         }
       ],
@@ -100,8 +100,8 @@
       "scope": "GOOGLE",
       "types": [
         "cafe",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ],
       "user_ratings_total": 14,
@@ -138,7 +138,7 @@
           "html_attributions": [
             "<a href=\"https://maps.google.com/maps/contrib/112742809181223390160\">Masakazu Domon</a>"
           ],
-          "photo_reference": "ATJ83zi1tasI0v8vuuY8ubfDRQwkS_ajL4CPDD_bB0sRJxtJ9T0UGbzmabaG0yexdyugrcilv8-pS9BcNajGQpPru9m8tXvncl6FzDsaSYGOzSTRjzfEZHMVchVn9AHF0ruwT65bfZ3okhZ6uiC8gndyM6d56I4k1pKuOETOKEqYLZWeBAe1",
+          "photo_reference": "ATJ83zjyGU_DChuN618VfsvlWkshmd1e0sPKPIXjCUyB5PKxW_Cer074j669736gE7aeR0CSsAOKWtjxDWK4gbTTPpaXFRPz5JVeQJ65YzLr9lZxdxpjHS84e59YoQv0aYjLdBqD2OKf-7c6XkVojCSLmgkkNDCqoe7noJ2sLvGToMbq8tV8",
           "width": 3024
         }
       ],
@@ -153,8 +153,8 @@
       "scope": "GOOGLE",
       "types": [
         "cafe",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ],
       "user_ratings_total": 362,
@@ -191,7 +191,7 @@
           "html_attributions": [
             "<a href=\"https://maps.google.com/maps/contrib/106418560616780120443\">A Google User</a>"
           ],
-          "photo_reference": "ATJ83zgwsW2BVmDVH9y3WvVngatDyGwuoMTkuz7ZQw8C0puL_-yTKEbr7nuClpt6sZl0sq9btvI1U0WkXi8BlFsC2FO0wlwVnm38_k2q-pPJ2zBM9cmMyvZ-kj0S6_6aoW4JeeLIFqiCh27FlGZ6_7znLS4bTuy_7f64NTZnvNUjOB9SAZ3p",
+          "photo_reference": "ATJ83zhFtzlUCUp5GARDHk4Wvc07gxfwM0CoitN-vKF53bTyfXpILo8GADwp8UyAnmMPcP0WtLgRqVdJadRAdjDThcvebQJoSMUXwnVyNkqFxIOGw2Xm3M_20E-MwMIQCP3Y4aOvfJXYio3pU8zv9066KRpVva0cG7kXknHK742SIHlM6EIf",
           "width": 1000
         }
       ],
@@ -205,8 +205,8 @@
       "scope": "GOOGLE",
       "types": [
         "cafe",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ],
       "user_ratings_total": 84,
@@ -243,7 +243,7 @@
           "html_attributions": [
             "<a href=\"https://maps.google.com/maps/contrib/111302905183361248363\">\u82e5\u5bae\u660e\u5b50</a>"
           ],
-          "photo_reference": "ATJ83ziQLywDrDWrg9y8_HgoqkD4a62dfQ_eoAzeV4H2xnr0XhAVx_yNswDSgQrP6cwrq64YQWy3-Ekh2Tqt3B3hfYy7aGOMWZ1ROrYW-uD6vEYh7naO96rnvX5pHHXP2oRZw6pWDBbuVIm3hpQXZeLdei8n3FXhh2N1pFlPr4ChDCXn4rfy",
+          "photo_reference": "ATJ83ziml1HYAsaoe5cwXAsNU0EUeehx2TRzlPVKRW_pugkvWZO-4rUuHqRjwO_5OyOH5Mp6Z3XfXVIhG716bow1QXQH1V9QdZ2H6AZUosz41luBacQHxkTfWuCMCnHOQuOxA7xB3woV0uLZaxN5CoSvq8Ln7at_6ie45aqI15iqWRZtq4rY",
           "width": 3024
         }
       ],
@@ -258,9 +258,9 @@
       "scope": "GOOGLE",
       "types": [
         "cafe",
-        "point_of_interest",
-        "food",
         "store",
+        "food",
+        "point_of_interest",
         "establishment"
       ],
       "user_ratings_total": 119,
@@ -297,7 +297,7 @@
           "html_attributions": [
             "<a href=\"https://maps.google.com/maps/contrib/103849230452340531682\">103849230452340531682</a>"
           ],
-          "photo_reference": "ATJ83zgV6p3OoEMnE7KG9qUx4IU_UXLJ3mHgqEIrPy4gxNxLELyGq7GBYdV0N-zOxFSzqBAmN8NoZ42IL7N6-clwnJSIgD1yIZH0eBMyu2Yk-HUBriEuS79p0J4YvkPqG5WF0wfm7P4F8hHkoDD-uaguCRMMTKsMzoP3gHwW3PiBUq8dHrsN",
+          "photo_reference": "ATJ83zhPdR54JRM2O__uTm3m2feT8pJ7wSfPq_kWeo7g9qzNoSb5bWvaG8BWR4QovorytRovuGhfgDZGooY8TE02ekyozHymHKrIy6D5RzHrzJOAQBbDXUbC0CKvhQ77iY_I06-potvVDr8oGWM5epslyjFSvSTEQfEzJSL_Pk8PHiXKYaL3",
           "width": 4032
         }
       ],
@@ -312,8 +312,8 @@
       "types": [
         "cafe",
         "restaurant",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ],
       "user_ratings_total": 29,
@@ -350,7 +350,7 @@
           "html_attributions": [
             "<a href=\"https://maps.google.com/maps/contrib/111998227821864773558\">S T</a>"
           ],
-          "photo_reference": "ATJ83zhApVXufYgS_wO5fFLxQNKYWAFkKGaGk45PB9VfyvsPmy-UtPzZEusCUBwALwvACwI8KBcIurPg040ehlJi_L9yzkaCgNp2Ja7USzqOuC3gxZk7yTKlw_FWclpRHphCzWW8LsnigFtL3vYY72gJai0Ub0zbqq-5RFSMw-sGAtkhZTv-",
+          "photo_reference": "ATJ83zgep9bkXwxrYVxzNY3pRj8v7izHxlFzJSuYlsP3DYfew9ol2FCzYubFTG7D5u67DeHYDSCbgYa_W4OHAni0LbEMNFI4sqqFhlTpdkx59sIIuxqs8h3Dva_sPrsIs8-2lmNSURLj98Ni03Xwks_ZVz0y-Im0dtDkkCU7CS4GPTQ8SUFr",
           "width": 2924
         }
       ],
@@ -365,9 +365,9 @@
       "scope": "GOOGLE",
       "types": [
         "cafe",
-        "point_of_interest",
-        "food",
         "store",
+        "food",
+        "point_of_interest",
         "establishment"
       ],
       "user_ratings_total": 84,
@@ -404,7 +404,7 @@
           "html_attributions": [
             "<a href=\"https://maps.google.com/maps/contrib/113692820023982677270\">\u3042\u3044\u305f\u3051</a>"
           ],
-          "photo_reference": "ATJ83zg3_vOkt6MXXY7zSlDO9eAG0v-EcuvqZM7rksiI_vRZm58F7nU31iMVWPuS_5V-6SYcNd7Ab-qs6zMULo7pEaauczWTHnEUI9SgxQ0MWqUtzYEb7-YteskhrT5a4N00ZSegd5oXyVibegaxjSQZ3cuRwY1nKjXP1qZSk4szfml90Z07",
+          "photo_reference": "ATJ83zjt4TI-bAkMDAAtuXAIePBsaPSpsqY-vDd3dl3nQTjJLJJIw52-ECYPxfFOgeF_qZ3qhAjLEDo9wmZhGErL2Dev6R8PdH7bhz1TN2ENhixESAuhRY5jA1mp976L-Zem85l97Muqerque_bvA2XiKmTHePBofcbJTwkXxUKFRN57TXpu",
           "width": 3024
         }
       ],
@@ -419,8 +419,8 @@
       "scope": "GOOGLE",
       "types": [
         "cafe",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ],
       "user_ratings_total": 158,
@@ -457,7 +457,7 @@
           "html_attributions": [
             "<a href=\"https://maps.google.com/maps/contrib/116169220344690084036\">A Google User</a>"
           ],
-          "photo_reference": "ATJ83ziO4y0thIjT7FrWso47zPY5Br2cVN18vTeTfbb6YzMneH6z992Da3-7dlye7kZNqq0wCKXkQhovYnC-DQIZQD56VMwHJucUnC7_kVbMrR7G0ErN-UE1ol1AfkEgsL2O3J2LIg5CniDE-3bU_UPwkBQzgK2aAWBzZJwQiUAFgFk5_22q",
+          "photo_reference": "ATJ83ziYA_7UWLUikzYbVjb2zLSSqm_IHvI22SFgYMw59owyGlRmpVOsmmH2zTfhz1dnIb8AOGmMMtH7emVe2OphePN_bDNMVNbwNqGsffgWCKfI3B5pTlc-XrwzFGIExwrYIFDSZmHjTOmBh9qB-B0bDKFPR5uFCFHlcxHlGt3y1858FpRp",
           "width": 3510
         }
       ],
@@ -472,8 +472,8 @@
       "types": [
         "cafe",
         "restaurant",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ],
       "user_ratings_total": 45,
@@ -510,7 +510,7 @@
           "html_attributions": [
             "<a href=\"https://maps.google.com/maps/contrib/112737452274218455130\">\u5f35\u5148\u59a4</a>"
           ],
-          "photo_reference": "ATJ83zjC3Q__caIaxCriJPZtD8s0f0Ohqq8z7BxMsviV_BWulA4-E0CfQEEi2nv7U81XebtvzH7JrkofIB8vWMoVe6T4zpKj2vqHSknt-9_hxI9oWGi7a6466AyTEVW-3rHMZnUUE8cEarjL-3dt5yj7CdujUx0ugy6XOn_Y2fYgTOHYDpVc",
+          "photo_reference": "ATJ83ziWWp9jHE218WevzZtkqYCgCaedC8EztpFoANRW0tq4MQsQRz3EqMJhUKS0Rgpl-8tvl89YU0MOxxQ70N8lja0vPssAZ8cKaNqfxfTokaF16Q0sfn8drhZnjERxOzBfLsTt1qWbSg8bpF-i1JXiazPGQBQ5S2HTG8oBOc_O2veCM7BJ",
           "width": 2268
         }
       ],
@@ -526,8 +526,8 @@
       "types": [
         "cafe",
         "restaurant",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ],
       "user_ratings_total": 737,
@@ -564,7 +564,7 @@
           "html_attributions": [
             "<a href=\"https://maps.google.com/maps/contrib/108236279847786892292\">A Google User</a>"
           ],
-          "photo_reference": "ATJ83zgMaZr5hl9zAQkssjzbd0DJTZbMenWiwIGte-peGO3g1Aw6XCUU5DhrTDa3bSnvGJgpMg6nf7vTBUd2H44qJ50qoUAtx6UxNbglbT9m-llOvwwtoHT8mTBzeeHJY-Q2zm8FD1mmpVEvLtTPSCLunUpbBrm7nc-FwK5s52p0fWxcEZie",
+          "photo_reference": "ATJ83zjIGwsWppELK55_caGdSEo0ghM6d7jIEdAKZiZErQnKvQGlywZllBmpGxzX9DM5fYsfrqoGtpKUh_Sgm-UkiQtkSkxWPvC6RG5CgVBJ8_fAylNo59h_-KpFz7hgFYotxzqxgp_6gWz7B0aLoBA6SRCNrHllM-ijfkCPNidR42xbp78O",
           "width": 4032
         }
       ],
@@ -579,8 +579,8 @@
       "types": [
         "cafe",
         "bar",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ],
       "user_ratings_total": 26,
@@ -609,7 +609,7 @@
       "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
       "name": "mint cafe & pub roppongi",
       "opening_hours": {
-        "open_now": true
+        "open_now": false
       },
       "photos": [
         {
@@ -617,7 +617,7 @@
           "html_attributions": [
             "<a href=\"https://maps.google.com/maps/contrib/112701163941935310427\">A Google User</a>"
           ],
-          "photo_reference": "ATJ83zhdUsPXX4kvkAQ3y3F5gkrEWDM03tCQN0u8lsTVOz0lehw8Hpuo43tS26PKuU6cKldi1cvZfB5ly9OjwyjJO3iWDB151lGLbmCFAMOusvLeeV4QfxO5ICeqQhL6TmYQaTTFY1LTR-BlFQ6LmHpbvOAmfMFwsUWKeWJGSn7vjGlPqxA",
+          "photo_reference": "ATJ83zhMPnCGS00jqFTcQipHhGcfDIIgBCzjCkKk7FrGa9Z7lB59Xw3id6RYiQOXOkCsCivs7llC8AUnmgOWO1o7lQhgqi2AWKDP3fbgcW3UFEgBxBaMUnGndLS5R9PdkICPTnnSRJDaLZT0WEaO4lO2EtQ4EX-j8TA4klgfcjGs_iXmsWs",
           "width": 1732
         }
       ],
@@ -633,8 +633,8 @@
         "cafe",
         "bar",
         "restaurant",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ],
       "user_ratings_total": 22,
@@ -671,7 +671,7 @@
           "html_attributions": [
             "<a href=\"https://maps.google.com/maps/contrib/112026470987391608825\">lm os</a>"
           ],
-          "photo_reference": "ATJ83zhx436a8a6z6bxWT7iG6GfI_nBnCnvgn5Yta2rxdTJt1svv2Xql5JbDQzpc0AotwCPx2t2LCrRw87xIwoCZaDYPv5ueadHjBZFFX65jgfEG2iLsKLymaWClayY5UZ-iS1UcbropDqikS6PzuCxiXs-e9pRF9lqq-3Krs7AmJ0n-KBdI",
+          "photo_reference": "ATJ83zhKwLBRI7OxNCKvSofWKwist19ozKthV_UtsbbPNHlbcpi16n2p3HCGOGx-Ih6dpRgFRnLGuKOSg2V4gX0q6yJ39pyJAKkUylz8ox5NI3DmMXrpMavZKPpsPdQr26BEDBsW5vhRhlM-rMTnu1lPH0jgXmL8s7BpyGv0zSlr9Vc3yfHk",
           "width": 2196
         }
       ],
@@ -685,8 +685,8 @@
       "scope": "GOOGLE",
       "types": [
         "cafe",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ],
       "user_ratings_total": 1,
@@ -720,7 +720,7 @@
           "html_attributions": [
             "<a href=\"https://maps.google.com/maps/contrib/103232385730792485027\">A Google User</a>"
           ],
-          "photo_reference": "ATJ83zit83-j8V0d5jphdPfZXY1WRX1ehauNzGb25YXx6vAKtkEWjHsHG6ubwanVPxLYu8UkD0XaNhGYDG4K_ZzMdrx7wZnnR_9_e7fhUeWyFTvVmHCzTMysUF6gyvNKbbltO3jbutbCz3DNwp2n6RftQvkj9Ei7qnkfyaeJPYfE24chRctn",
+          "photo_reference": "ATJ83zjpLtJ4UiwhW4KJzhrHo793iJz7VteePNjfOxnDN8swnBNMhW5BPAxU452Lp83nlamGwd02E3pbcKY04OqgqDjOCnycBnXBfsVftunzSHesUr-UZOs9IoA2ftVwPyIne5t9lW2MTNRdOLvnRdH1EFmJIjjr7T3fWaqOthoInhL0zCSD",
           "width": 3024
         }
       ],
@@ -734,9 +734,9 @@
       "scope": "GOOGLE",
       "types": [
         "cafe",
-        "point_of_interest",
-        "food",
         "store",
+        "food",
+        "point_of_interest",
         "establishment"
       ],
       "user_ratings_total": 6,
@@ -773,7 +773,7 @@
           "html_attributions": [
             "<a href=\"https://maps.google.com/maps/contrib/115360212631242918127\">mi xi</a>"
           ],
-          "photo_reference": "ATJ83zhQpGBw4TsBR5KL-5eMdgdiBsMtPCpW09p7UBUjnSv-m-iU4Dvd9P1cto_JSDi7jPuE1JYAJ4xC8Cd_0SdwifmdRpZtle_Iin-pI3KJLQIeC3EpQRpefDfI934LoOP-oo_MbVnrGs-80HIyGYvZHutXorja6dhGSkcNLcZ6k3QUtCW1",
+          "photo_reference": "ATJ83zjqXvhMZARWDMLHdIzfpJSfcjX_2sSjmjAjlaGjHsMRT5HLHep-2A3nOBufEkSOlFirmRabwjIHNdlOw-lDkcauWzVshSSAp_VhrcVG0QUoEUByQec2FrE8r4cnls0FtvJLVKVevEmmqPSR4qWnHybvGyySuFlQ--4yxtHHjVw414xG",
           "width": 4624
         }
       ],
@@ -788,9 +788,9 @@
       "scope": "GOOGLE",
       "types": [
         "cafe",
-        "point_of_interest",
-        "food",
         "store",
+        "food",
+        "point_of_interest",
         "establishment"
       ],
       "user_ratings_total": 510,
@@ -827,7 +827,7 @@
           "html_attributions": [
             "<a href=\"https://maps.google.com/maps/contrib/101257099081959886642\">\u6df1\u91ce\u5584\u4fe1</a>"
           ],
-          "photo_reference": "ATJ83zigj5fNdDfdSwgsZmRVn4lIjJBetQsHPP-sc9cLHo_wqRFwsKCaRika0VV_26j5p8cKBYL2TuWRGXFXHg_izCitMyYD3wqMOVC0NEOkzoXF2_182thDI2xPKNSe0GJ-qSBq-vL9EUcmGP3xPYZe73T25vN37s6HRts2o3Bh2z4LX-zw",
+          "photo_reference": "ATJ83zhlNEKf4eOkmx2C2CKhvFVBGc3gdtIf3gpkt3tOlioXBbnvwo8TyTkOKPQ6X_ZcaqswuDa59etv5BnKOTaJAaB6dHmHaOCrflYPJmSOr0oBS6ADtleLehYnn2ZoTOzQbOC9LPrhJJJYdMzB0nfpKy7F_tm7gRhYnm8774wkWbyFnr56",
           "width": 3840
         }
       ],
@@ -842,9 +842,9 @@
       "scope": "GOOGLE",
       "types": [
         "cafe",
-        "point_of_interest",
-        "food",
         "store",
+        "food",
+        "point_of_interest",
         "establishment"
       ],
       "user_ratings_total": 445,
@@ -881,7 +881,7 @@
           "html_attributions": [
             "<a href=\"https://maps.google.com/maps/contrib/104805435719703050650\">\u5ba5\u4e98\u9673</a>"
           ],
-          "photo_reference": "ATJ83zhmERjABqnRb2k7_T28Uhpo3HFtvnpYTRkv-oi16EzE4fRY45VF3YbB-uJPu6Fpt9BvW-XCGPrGGkGZfyjK9Gq8BRIMX9G2cwaO1lUCouP3wIia08wVPysP5jlLXZi7-wpfZ4oPoRmepjYc66nEohl8NvUl4y794qk6qlCtdsJjc8BC",
+          "photo_reference": "ATJ83zhkT8DTavWliSxmIAWuYPDmymRep1rmNm4xT41weUAyRN9gAOQH694qdSqCKT7RNM5-sAivYW4MGp_V_Aa5NlENA9yK1O0OleELDfBbPhWSTFaCmNhr6YppTR_l5WIsq3tX7OH1pSfCyDwiSog85AIbIUe12wrL_vyvTNmRNKbi13T-",
           "width": 3024
         }
       ],
@@ -896,9 +896,9 @@
       "scope": "GOOGLE",
       "types": [
         "cafe",
-        "point_of_interest",
-        "food",
         "store",
+        "food",
+        "point_of_interest",
         "establishment"
       ],
       "user_ratings_total": 341,
@@ -935,7 +935,7 @@
           "html_attributions": [
             "<a href=\"https://maps.google.com/maps/contrib/101116097218336538698\">\u6797\u6b63\u8ad6</a>"
           ],
-          "photo_reference": "ATJ83zhitXFYLfdHg5R5ksnFzgkPEkLxcyeLw6eMxo8FEXwtV4905KETGSgRbmW5EXSjTC_2dWoueH_L3OYmDbR1_8udGUSPe6BlbgLAmXLkmiFBreZLKJXwEUw011zG1FjwUQGWy_XkpuudnUa-8ZMmTdcDzmlOsKod8An6nlCmiGzHe2NY",
+          "photo_reference": "ATJ83zgKu4wtXH0dAwSOxyEfx5Dy1QsCDOEG-d1d1ohqdlL262S2V2ltM7nXe2GpgLAwWMgP4sy2J6kN33f6Cd_nKqklac-vakl-Jk2hO51rxuD2X5jxh0-ZaSD6GQVmn9dZ-14RthqiSmw438gjPhq7O1eNsMZraPEthgo9yYQvdUFqZ9BO",
           "width": 3264
         }
       ],
@@ -949,9 +949,9 @@
       "scope": "GOOGLE",
       "types": [
         "cafe",
-        "point_of_interest",
-        "food",
         "store",
+        "food",
+        "point_of_interest",
         "establishment"
       ],
       "user_ratings_total": 97,
@@ -988,7 +988,7 @@
           "html_attributions": [
             "<a href=\"https://maps.google.com/maps/contrib/111092119382923221223\">A Google User</a>"
           ],
-          "photo_reference": "ATJ83zjRs30MGElpwUtHpG3rsVfDU-iVjnJHYGNVmoIMq8OQy7eNs65Pi0gapuDa_vlDmRDuf4cYa9E7c25szy-aO9jLgLfspzK8YRvNnYxg9iUZWQXxovgeaSP1z4RSsAY8s-IdMT9Rtc7FWpUPCGXC_AZEg0vStdVDRgl9JJkfw_vka9Ql",
+          "photo_reference": "ATJ83ziutfglM4MnZu5gLdbHoOIiZAYQH3P4DuDqUWMAbXrHLLLmgaUDAxa4G0hqAk2rtNcIQ_pVqKRPiyd82MnryX7C1xmoij_zSjDI-ZEBlJPBZ44J-ZgjQXjzVJTyPiEIZgPjIGic-XWHp0Wc92WslSSp4bHsLoi2QNSEnxW_61Z6LIVb",
           "width": 1252
         }
       ],
@@ -1003,9 +1003,9 @@
       "scope": "GOOGLE",
       "types": [
         "cafe",
-        "point_of_interest",
-        "food",
         "store",
+        "food",
+        "point_of_interest",
         "establishment"
       ],
       "user_ratings_total": 562,
@@ -1042,7 +1042,7 @@
           "html_attributions": [
             "<a href=\"https://maps.google.com/maps/contrib/116826459197301161851\">\u85e4\u539f\u7406\u8cb4</a>"
           ],
-          "photo_reference": "ATJ83ziwY-3rasq-9q33qzAE-ycBVg_25ojZV3T_RUF49Wx5j7ZoBVMe5p8dG0Q2IrP6HxR0LCUJoldX8Ogjk_eYspK4KHN1tuujC5GxzxLHWj720GAtY_sfdYD3Jy2lFgIMULIRkmOblOetyaPmJ8Pxgk1TjtnXfDOopFm1m03SNLMb2ISX",
+          "photo_reference": "ATJ83zidDJcOWM8u2mz9_F1oB_o7zKq9W4ZyR-dR5doh2Ikr88hd-6yPzzXWOPg-p0HVKr7uZ2VPU3sExuIt2udcY2uWIu8FheKFpKO1MqU479S1ahD1l52xkPu81aZGueg7lq2CNV-uf2hcStie4ZUko3Ei3kftaGn4pY18WIGZflq-mq8p",
           "width": 1200
         }
       ],
@@ -1059,8 +1059,8 @@
         "night_club",
         "bar",
         "restaurant",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ],
       "user_ratings_total": 131,
