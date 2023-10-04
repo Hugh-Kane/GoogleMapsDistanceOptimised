@@ -19,12 +19,14 @@ Our simple API prioritizes proximity, ensuring you're never too far from your ne
 
 
 ## Example <a name="example"></a>
-<img src="https://i.imgur.com/O25fHAN.png" alt="GoogleMaps" style="width: 50%; height: auto;">
-<img src="https://i.imgur.com/LniqPNX.png" alt="DistanceOptimizedAPI" style="width: 50%; height: auto;">
+<img src="https://i.imgur.com/O25fHAN.png" alt="GoogleMaps" style="width: 80%; height: auto;">
+<img src="https://i.imgur.com/LniqPNX.png" alt="DistanceOptimizedAPI" style="width: 80%; height: auto;">
 
 
 ## Installation <a name="Installation"></a>
-This is section 1.
+This code utilises two types of API calls to Google Maps Services 
+Geocoding request and response(https://developers.google.com/maps/documentation/geocoding/requests-geocoding)
+Nearby Search(https://developers.google.com/maps/documentation/places/web-service/search-nearby)
 
 ## Usage <a name="Usage"></a>
 This is section 2.
