@@ -47,7 +47,7 @@ Within the main.py document - adjust the following parameters.
 | output_result | *STRING* | Please enter Short or Long. Short will output only place name & overall score. Whereas Long will provide extra information. |
 
 ### Output
-
+Results are printed out in the console. 
 Example of a Short Output:
 
 ```
@@ -55,11 +55,7 @@ Example of a Short Output:
     'ANTICO CAFFÈ AL AVIS - Roppongi Hills': 0.041935483870967745,
     'Hills Cafe / Space': 0.03457943925233645,
     'マックカフェ バイ バリスタ': 0.021621621621621623,
-    'Cafe THE SUN': 0.02064516129032258,
-    'Tsubakiya Coffee Roppongi': 0.012582781456953641,
-    'Reino': 0.012537313432835822,
-    'Three Point Cafe-ROPPONGI-': 0.011002444987775062,
-    'EX GARDEN CAFE': 0.01029810298102981
+    '自家焙煎珈琲 カフェ・タピロス': 0.00898661567877629
 }
 ```
 
@@ -67,12 +63,30 @@ Example of a Short Output:
 {
 Example of a Long Output: 
 
-ANTICO CAFFÈ AL AVIS - Roppongi Hills: {'place_id': 'ChIJL7waDXeLGGARO42nvUJfpaY', 'rating': 3.9, 'Review Count': 307, 'distance': 93, 'Overall score': 0.041935483870967745}
-Hills Cafe / Space: {'place_id': 'ChIJh8bEDHeLGGARMa5PSjCLM7Q', 'rating': 3.7, 'Review Count': 362, 'distance': 107, 'Overall score': 0.03457943925233645}
-マックカフェ バイ バリスタ: {'place_id': 'ChIJq8DGnLGLGGAR1MVYCbaOnpE', 'rating': 4, 'Review Count': 45, 'distance': 185, 'Overall score': 0.021621621621621623}
-Cafe THE SUN: {'place_id': 'ChIJsccgCXeLGGAR6X4MndeAPls', 'rating': 3.2, 'Review Count': 84, 'distance': 155, 'Overall score': 0.02064516129032258}
-Tsubakiya Coffee Roppongi: {'place_id': 'ChIJNX7sjHeLGGARm3tdDOXBd68', 'rating': 3.8, 'Review Count': 445, 'distance': 302, 'Overall score': 0.012582781456953641}
-自家焙煎珈琲 カフェ・タピロス: {'place_id': 'ChIJgZygiZ2LGGARkaDee5_BaqE', 'rating': 4.7, 'Review Count': 97, 'distance': 523, 'Overall score': 0.00898661567877629}
+ANTICO CAFFÈ AL AVIS - Roppongi Hills
+         place_id:  ChIJL7waDXeLGGARO42nvUJfpaY
+         rating:  3.9
+         Review Count:  307
+         distance:  93
+         Overall score:  0.041935483870967745
+Hills Cafe / Space
+         place_id:  ChIJh8bEDHeLGGARMa5PSjCLM7Q
+         rating:  3.7
+         Review Count:  362
+         distance:  107
+         Overall score:  0.03457943925233645
+マックカフェ バイ バリスタ
+         place_id:  ChIJq8DGnLGLGGAR1MVYCbaOnpE
+         rating:  4
+         Review Count:  45
+         distance:  185
+         Overall score:  0.021621621621621623
+自家焙煎珈琲 カフェ・タピロス
+         place_id:  ChIJgZygiZ2LGGARkaDee5_BaqE
+         rating:  4.7
+         Review Count:  97
+         distance:  523
+         Overall score:  0.00898661567877629
 }
 ```
 

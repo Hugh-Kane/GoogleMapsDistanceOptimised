@@ -110,7 +110,11 @@ class GoogleMapsClient:
         while scores:
             overall_score,location_name = heapq.heappop(scores)
             if self.output_result == "Long":
-                print(f"{location_name}: {search_nearby_results[location_name]}")
+                #print(f"{location_name}: {search_nearby_results[location_name]}")
+                print(f"{location_name}")
+                for key,value in search_nearby_results[location_name].items():
+                    print(f"         {key}:  {value}")
+                
             elif self.output_result == "Short":
                 print(f"{location_name}: {search_nearby_results[location_name]['Overall score']}")
             else:
