@@ -1,4 +1,4 @@
-# GoogleMapsNearbyOptimised
+# GoogleMapsDistanceOptimised
 
 ## Table of Contents
 - [Introduction](#introduction)
