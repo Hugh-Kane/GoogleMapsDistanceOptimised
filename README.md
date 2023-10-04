@@ -44,6 +44,21 @@ Within the main.py document - adjust the following parameters.
 | Search_location  | *STRING* |  The point around which to retrieve place information. |
 | Search_item   | *STRING*  | The text string on which to search, for example: "restaurant" or "123 Main Street". This must be a place name, address, or category of establishments. Any other types of input can generate errors and are not guaranteed to return valid results. The Google Places service will return candidate matches based on this string and order the results based on their perceived relevance.|
 | radius | *INTEGER* | Defines the distance (in meters) within which to return place results. |
+| output_result | *STRING* | Please enter Short or Long. Short will output only place name & overall score. Whereas Long will provide extra information. |
+
+### Output
+
+Example of a Short Output:
+"""
+ANTICO CAFFÈ AL AVIS - Roppongi Hills: 0.041935483870967745
+Hills Cafe / Space: 0.03457943925233645
+マックカフェ バイ バリスタ: 0.021621621621621623
+Cafe THE SUN: 0.02064516129032258
+Tsubakiya Coffee Roppongi: 0.012582781456953641
+Reino: 0.012537313432835822
+Three Point Cafe-ROPPONGI-: 0.011002444987775062
+EX GARDEN CAFE: 0.01029810298102981
+"""
 
 # Features <a name="Features"></a>
 - Search for any term available on Google maps around a specified search location.
