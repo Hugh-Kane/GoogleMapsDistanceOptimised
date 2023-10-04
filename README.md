@@ -59,10 +59,10 @@ Example of a Short Output:
 }
 ```
 
-```
-{
 Example of a Long Output: 
 
+```
+{
 ANTICO CAFFÈ AL AVIS - Roppongi Hills
          place_id:  ChIJL7waDXeLGGARO42nvUJfpaY
          rating:  3.9
@@ -97,6 +97,7 @@ Hills Cafe / Space
 - Optimisation of results suggested by Google Maps analysing distance from search location & review.
 - Filters out locations with less than 5 reviews.
 - Simple console output of location.    
+- Selection of short & long output depending on if the user would like additional information.
 
 ## Acknowledgements <a name="Acknowledgements"></a>
 This project was inspired by a video produced by the CodingEntrepeneurs channel. 
