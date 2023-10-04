@@ -25,8 +25,8 @@ Our simple API prioritizes proximity, ensuring you're never too far from your ne
 
 ## Installation <a name="Installation"></a>
 This code utilises two types of API calls to Google Maps Services 
-Geocoding request and response(https://developers.google.com/maps/documentation/geocoding/requests-geocoding)
-Nearby Search(https://developers.google.com/maps/documentation/places/web-service/search-nearby)
+-[Geocoding request and response](https://developers.google.com/maps/documentation/geocoding/requests-geocoding)
+-[Nearby Search](https://developers.google.com/maps/documentation/places/web-service/search-nearby)
 
 ## Usage <a name="Usage"></a>
 This is section 2.
