@@ -52,16 +52,17 @@ Example of a Short Output:
 
 """
 {
-ANTICO CAFFÈ AL AVIS - Roppongi Hills: 0.041935483870967745
-Hills Cafe / Space: 0.03457943925233645
-マックカフェ バイ バリスタ: 0.021621621621621623
-Cafe THE SUN: 0.02064516129032258
-Tsubakiya Coffee Roppongi: 0.012582781456953641
-Reino: 0.012537313432835822
-Three Point Cafe-ROPPONGI-: 0.011002444987775062
-EX GARDEN CAFE: 0.01029810298102981
+    'ANTICO CAFFÈ AL AVIS - Roppongi Hills': 0.041935483870967745,
+    'Hills Cafe / Space': 0.03457943925233645,
+    'マックカフェ バイ バリスタ': 0.021621621621621623,
+    'Cafe THE SUN': 0.02064516129032258,
+    'Tsubakiya Coffee Roppongi': 0.012582781456953641,
+    'Reino': 0.012537313432835822,
+    'Three Point Cafe-ROPPONGI-': 0.011002444987775062,
+    'EX GARDEN CAFE': 0.01029810298102981
 }
 """
+
 
 # Features <a name="Features"></a>
 - Search for any term available on Google maps around a specified search location.
