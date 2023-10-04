@@ -19,8 +19,8 @@ Our simple API prioritizes proximity, ensuring you're never too far from your ne
 
 
 ## Example <a name="example"></a>
-![GoogleMaps](https://i.imgur.com/O25fHAN.png){width=300px height=200px}
-![DistanceOptimisedAPI](https://i.imgur.com/LniqPNX.png){width=300px height=200px}
+<img src="https://i.imgur.com/O25fHAN.png" alt="GoogleMaps" width="300" height="200">
+<img src="https://i.imgur.com/LniqPNX.png" alt="DistanceOptimizedAPI" width="300" height="200">
 
 ## Installation <a name="Installation"></a>
 This is section 1.
