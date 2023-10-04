@@ -39,12 +39,11 @@ In order for these API integrations to work, a Google Cloud project & API set-up
 ## Usage <a name="Usage"></a>
 Within the main.py document - adjust the following parameters. 
 
-| Parameter     | Data Type      | 
-|:-------------:|:-------------:|
-| Left-aligned  | Left-aligned  | 
-| Search_location  | *STRING* | 
-| Search_item   | *STRING*  | 
-| radius | *INTEGER* |
+| Parameter     | Data Type      | Description   |
+|:-------------:|:-------------:|:-------------:|
+| Search_location  | *STRING* |  The point around which to retrieve place information. |
+| Search_item   | *STRING*  | The text string on which to search, for example: "restaurant" or "123 Main Street". This must be a place name, address, or category of establishments. Any other types of input can generate errors and are not guaranteed to return valid results. The Google Places service will return candidate matches based on this string and order the results based on their perceived relevance.|
+| radius | *INTEGER* | Defines the distance (in meters) within which to return place results. |
 
 # Features <a name="Features"></a>
 - Search for any term available on Google maps around a specified search location.
