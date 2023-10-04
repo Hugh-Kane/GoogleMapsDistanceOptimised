@@ -50,7 +50,7 @@ Within the main.py document - adjust the following parameters.
 
 Example of a Short Output:
 
-"""
+```
 {
     'ANTICO CAFFÈ AL AVIS - Roppongi Hills': 0.041935483870967745,
     'Hills Cafe / Space': 0.03457943925233645,
@@ -61,7 +61,7 @@ Example of a Short Output:
     'Three Point Cafe-ROPPONGI-': 0.011002444987775062,
     'EX GARDEN CAFE': 0.01029810298102981
 }
-"""
+```
 
 
 # Features <a name="Features"></a>
