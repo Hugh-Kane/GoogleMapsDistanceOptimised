@@ -11,6 +11,9 @@
 # Introduction <a name="introduction"></a>
 This is the introduction section.
 
+![Test](https://imgur.com/CY3SKuW)
+
+
 ## Installation <a name="Installation"></a>
 This is section 1.
 
