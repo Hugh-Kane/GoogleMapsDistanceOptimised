@@ -16,7 +16,7 @@ Find Place is also available, but this only pulls data on the closest matching i
 """
 
 
-API_key= os.environ['GoogleMapsAPI']
+
 
 class GoogleMapsClient:
     lat = None
@@ -165,7 +165,3 @@ class GoogleMapsClient:
             duration = None  # Set duration to None or handle it as needed
         return duration
     
-client = GoogleMapsClient(api_key=API_key,address= 'roppongi hills mori tower')
-search_nearby_results = client.search_nearby("cafe",radius=200)
-
-client.pretty_json(search_nearby_results)
