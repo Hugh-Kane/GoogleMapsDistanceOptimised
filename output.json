@@ -1,0 +1,1071 @@
+{
+  "html_attributions": [],
+  "next_page_token": "ATJ83zjXXdGCzZVbdirup226fq_TiptqCPyyTZDusvikZKkbWDRHVVLMdRTmTYIueSg-mBVNGpgW1-DvDKRNdqVuzbBx-E8LFK5pwYSGqqUxi5flXb0-Da1VdT69_5TqoFklm3ivBMcHgDMwVs1PGQOsIFjjzYIHJEKjB4-Xqg9Pj52_SWdVCVsxf46ZQrdue9OvbKJ8esiTHFp9BrQqXiEZwP_bS85VUk6QYiczCujSVgQe-HCM3Ffp6z-nEFYRnmVk44Jb4qtyMc8kniSxr45hHjJGW4bmJMGkoy5mCPxERVmP7rwMquN1DBGRBlFNIa6NEU7iI-cEvA7WktC1Cka5IhUSCB8Q1u75GxT0Pp61YorxHRY_ubB99nKNAelklEY1FhOd38eNcOl4qP0qpDVChxq--_T3AbbgnE8B9ALUiAeMwSr_cSSx-Cc",
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.6606617,
+          "lng": 139.7289493
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.66205382989272,
+            "lng": 139.7307088798927
+          },
+          "southwest": {
+            "lat": 35.65935417010728,
+            "lng": 139.7280092201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "name": "ANTICO CAFF\u00c8 AL AVIS - Roppongi Hills",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115838059726171352430\">A Google User</a>"
+          ],
+          "photo_reference": "ATJ83ziNrvYdeNUOwVxK-Ptjbh8_TkW8eKaTp01VxYohw42maepAYwhzxOx_eovZHaIBWQCQbulPR_DkR5RDhruK_4rL1C5kA-oISlW1v2J8rGHUd7SxedhVCTt0yz2-dVU_p2Rf6XpE59AaqDRUWyfjgWFMu664JX5pricDo2NoCVv6NEtT",
+          "width": 5504
+        }
+      ],
+      "place_id": "ChIJL7waDXeLGGARO42nvUJfpaY",
+      "plus_code": {
+        "compound_code": "MP6H+7H Minato City, Tokyo, Japan",
+        "global_code": "8Q7XMP6H+7H"
+      },
+      "price_level": 2,
+      "rating": 3.9,
+      "reference": "ChIJL7waDXeLGGARO42nvUJfpaY",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 307,
+      "vicinity": "Minato City, Roppongi, 6 Chome\u221210\u22121 \u30d2\u30eb\u30ba \u30a6\u30a7\u30b9\u30c8\u30a6\u30a9\u30fc\u30af 3F"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.662732,
+          "lng": 139.7273829
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.66411837989272,
+            "lng": 139.7286957298927
+          },
+          "southwest": {
+            "lat": 35.66141872010728,
+            "lng": 139.7259960701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "name": "Three Point Cafe-ROPPONGI-",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109784807058740368582\">A Google User</a>"
+          ],
+          "photo_reference": "ATJ83zjM16uoJq5ct1egSr06pHgd1pEhOVyuK0d5msknGpZ8lnVWz4oI84N_-_9zdraUbduNOQoZHk-aS0L5U-MLbM9kZv6u0VoAhjDVkBEyPZkWIw1IECmk92OHyWT39CuWXqDcBXqkDXl8oa4e28E0NmDpF4TWSfWXiMBKLB9wCQgDUFA",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJA3ueWhCLGGARKP_IJ_BYB3g",
+      "plus_code": {
+        "compound_code": "MP7G+3X Minato City, Tokyo, Japan",
+        "global_code": "8Q7XMP7G+3X"
+      },
+      "rating": 4.5,
+      "reference": "ChIJA3ueWhCLGGARKP_IJ_BYB3g",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 14,
+      "vicinity": "Minato City, Roppongi, 7 Chome\u221220\u221214 \u30cb\u30e5\u30fc\u516d\u672c\u6728\u30de\u30f3\u30b7\u30e7\u30f3 1F"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.6604679,
+          "lng": 139.7296234
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.66194677989272,
+            "lng": 139.7310336798927
+          },
+          "southwest": {
+            "lat": 35.65924712010727,
+            "lng": 139.7283340201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "name": "Hills Cafe / Space",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112742809181223390160\">Masakazu Domon</a>"
+          ],
+          "photo_reference": "ATJ83zjZvrl9ALWUd7MfADdbRDAmxeM19Zhv5ug5bV7kVgdQhu3WTiGefqOdGQvsO80H3cXiRBPqM93amsnCupDT2EjA76-mKOWIa8norgsEabqUnyGAz1-3Ir9BoCxbDZipipXkX5JEHJVk5NcjNBg4YvSUh1-QhhiGbI7TDU0U3vmBIUOS",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJh8bEDHeLGGARMa5PSjCLM7Q",
+      "plus_code": {
+        "compound_code": "MP6H+5R Minato City, Tokyo, Japan",
+        "global_code": "8Q7XMP6H+5R"
+      },
+      "price_level": 2,
+      "rating": 3.7,
+      "reference": "ChIJh8bEDHeLGGARMa5PSjCLM7Q",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 362,
+      "vicinity": "Minato City, Roppongi, 6 Chome\u221210\u22121 \u516d\u672c\u6728\u30d2\u30eb\u30ba \u30d2\u30eb\u30b5\u30a4\u30c9 2F"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.6604521,
+          "lng": 139.7295239
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.66194272989273,
+            "lng": 139.7309962298927
+          },
+          "southwest": {
+            "lat": 35.65924307010729,
+            "lng": 139.7282965701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "name": "Cafe THE SUN",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 667,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106418560616780120443\">A Google User</a>"
+          ],
+          "photo_reference": "ATJ83zhd_OJIDJ1D-ZaWeKHstuXttJjRWorUqQuxS7YnrjjxhdXVUnQptGyghmudHSaeV6WjpIx0ZLakaJiv0DT9BciAMcdSvAXMZ0uvn9iBG8moBAA9L-UGnWjeKYwsQ4Cqtcj1pGp8CUy8nGuFnQnK18lJxvVKhGxmI9QnVjGZ_IbaLdhO",
+          "width": 1000
+        }
+      ],
+      "place_id": "ChIJsccgCXeLGGAR6X4MndeAPls",
+      "plus_code": {
+        "compound_code": "MP6H+5R Minato City, Tokyo, Japan",
+        "global_code": "8Q7XMP6H+5R"
+      },
+      "rating": 3.2,
+      "reference": "ChIJsccgCXeLGGAR6X4MndeAPls",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 84,
+      "vicinity": "Minato City, Roppongi, 6 Chome\u221210\u22121 \u30d2\u30eb\u30ba\u68ee\u30bf\u30ef 52F"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.6605259,
+          "lng": 139.7267087
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.66191702989271,
+            "lng": 139.7280339298927
+          },
+          "southwest": {
+            "lat": 35.65921737010727,
+            "lng": 139.7253342701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "name": "Reino",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111302905183361248363\">\u82e5\u5bae\u660e\u5b50</a>"
+          ],
+          "photo_reference": "ATJ83zjq_83CHBXCWBKDK1-F3YoO10OCgLXDk2k7ML0351QSO3zRUj0jYmBpZMim07LTUNvuENd8ZxYxmWumP80kirrfI4QrcipHSW0rPJN1Nmu8DQHohjFV0t3ho_LRFxGf247jk0Z2Rmw9w3yxvf_wwAU4WKqSm3nGISN1LsalBwlB6Bt2",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJHSGarXCLGGAR9fVHdTXrYbU",
+      "plus_code": {
+        "compound_code": "MP6G+6M Minato City, Tokyo, Japan",
+        "global_code": "8Q7XMP6G+6M"
+      },
+      "price_level": 2,
+      "rating": 4.2,
+      "reference": "ChIJHSGarXCLGGAR9fVHdTXrYbU",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 119,
+      "vicinity": "Minato City, Nishiazabu, 3 Chome\u22121\u221219 \u5c0f\u5c71\u30d3\u30eb 1F"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.6600806,
+          "lng": 139.7308365
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.66165882989272,
+            "lng": 139.7324257298927
+          },
+          "southwest": {
+            "lat": 35.65895917010727,
+            "lng": 139.7297260701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "name": "EX GARDEN CAFE",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103849230452340531682\">103849230452340531682</a>"
+          ],
+          "photo_reference": "ATJ83zgbPWwr6hA9FVWHY60kYhHxLH_rZXjDEiOTVXkEUmuk327yULkcrmZCDGiDDJr0_hQBTM4auaAsxUqG_VRkKH6D-g9Q0vF_vpAOcpChic-hSSsVujBmoT_XWBT0AFDhOTNgPdbPve2oVs_5AG8qf7sXFAXP4V3jl67c9I2hlmBLoTgb",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJkWiKEeOLGGAR92VCtCE4ELo",
+      "plus_code": {
+        "compound_code": "MP6J+28 Minato City, Tokyo, Japan",
+        "global_code": "8Q7XMP6J+28"
+      },
+      "rating": 3.8,
+      "reference": "ChIJkWiKEeOLGGAR92VCtCE4ELo",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 29,
+      "vicinity": "Minato City, Roppongi, 6 Chome\u22129\u22121 \u30c6\u30ec\u30d3\u671d\u65e5\u672c\u793e\u30d3\u30eb 1F \u30a2\u30c8\u30ea\u30a6\u30e0\u5185"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.6624959,
+          "lng": 139.7289394
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.66380232989272,
+            "lng": 139.7302643298927
+          },
+          "southwest": {
+            "lat": 35.66110267010728,
+            "lng": 139.7275646701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "name": "Kafa Bunna",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2923,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111998227821864773558\">S T</a>"
+          ],
+          "photo_reference": "ATJ83zgfil1ghV0brLYyg0mYk1U1eynEP7RomXRFEup6MmwBTsG5lcQTOEs6D7-UPzzoUyUrQdljZkEGcPsROPfBdBHPzourkgZaPaYaDATCHKQ20az1fdCdQRpSAoM68XO52gNkSPqJiFUNwQ5CEwxz4cgo5yOvkuonT4EPR49z5pK9YgTN",
+          "width": 2924
+        }
+      ],
+      "place_id": "ChIJ90fEz3mLGGAR1RjdJJr5X2Q",
+      "plus_code": {
+        "compound_code": "MP6H+XH Minato City, Tokyo, Japan",
+        "global_code": "8Q7XMP6H+XH"
+      },
+      "price_level": 2,
+      "rating": 4.3,
+      "reference": "ChIJ90fEz3mLGGAR1RjdJJr5X2Q",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 84,
+      "vicinity": "Minato City, Roppongi, 7 Chome\u221217\u221220 \u516d\u672c\u6728 \u660e\u6cc9\u30d3\u30eb"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.6599835,
+          "lng": 139.7323317
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.66130187989273,
+            "lng": 139.7336591798927
+          },
+          "southwest": {
+            "lat": 35.65860222010728,
+            "lng": 139.7309595201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "name": "Cafe Frangipani Roppongi",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113692820023982677270\">\u3042\u3044\u305f\u3051</a>"
+          ],
+          "photo_reference": "ATJ83zhXyN6TMYOzYY6E3P3GZ5TAK0f_14MUYmjI21fV4H5CYm2FoNNXYSKkkOVsu2rFrZF913hidIkThJjcjSF4BC5TDLSvg4bo7zJiWoWcTzFeiwZxejNjthi-s7-xr4k2KiIDq2NI7k_ZPzhKNdr-8pptwMNSOyae9G5NtCEa54RFGQkl",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJKbbui52LGGARNydn6jvFlmg",
+      "plus_code": {
+        "compound_code": "MP5J+XW Minato City, Tokyo, Japan",
+        "global_code": "8Q7XMP5J+XW"
+      },
+      "price_level": 2,
+      "rating": 4,
+      "reference": "ChIJKbbui52LGGARNydn6jvFlmg",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 158,
+      "vicinity": "Minato City, Roppongi, 6 Chome\u22128\u221221 SK\u516d\u672c\u6728\u30cf\u30a4\u30e0 1F"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.661062,
+          "lng": 139.728342
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.66246377989273,
+            "lng": 139.7296075798927
+          },
+          "southwest": {
+            "lat": 35.65976412010728,
+            "lng": 139.7269079201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "name": "\u30de\u30c3\u30af\u30ab\u30d5\u30a7 \u30d0\u30a4 \u30d0\u30ea\u30b9\u30bf",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 6240,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116169220344690084036\">A Google User</a>"
+          ],
+          "photo_reference": "ATJ83ziGTg81nWAnEnizV6x1T0FjmGr0eXIv1ts8IV_cQxUt3YX-NMdm9fzB5hyUO6hacgmu35Pcr8Btu9w7JVOa_ApLakeBW-_g33mB5TX8qQZFEOX17OLGd9ZCy89A1cJ0euPCIfJaQ3wBanG_1NvbjEeMu01xqHJP0rkfJRXAoHcULF8i",
+          "width": 3510
+        }
+      ],
+      "place_id": "ChIJq8DGnLGLGGAR1MVYCbaOnpE",
+      "plus_code": {
+        "compound_code": "MP6H+C8 Minato City, Tokyo, Japan",
+        "global_code": "8Q7XMP6H+C8"
+      },
+      "rating": 4,
+      "reference": "ChIJq8DGnLGLGGAR1MVYCbaOnpE",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 45,
+      "vicinity": "Minato City, Roppongi, 6 Chome\u22123\u22121, Roppongi Hills Cross Point, 1F"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.6635986,
+          "lng": 139.7334659
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.66499787989272,
+            "lng": 139.7348066798927
+          },
+          "southwest": {
+            "lat": 35.66229822010727,
+            "lng": 139.7321070201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "name": "SUZU CAFE Roppongi",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112737452274218455130\">\u5f35\u5148\u59a4</a>"
+          ],
+          "photo_reference": "ATJ83ziTbhZGBCOX1dxAi3K83XcwJgsmvAiAyQ82TgM6j9DWkoINkgfDtJqLSapak2OjobQ2RkBuYC6n3Gple_VZARI3auf2UBQn_QHT77CU9gYxrzb_HUdL7LYK3E3_HefoSUlFhAO6c2Z-ZucJhTVTqer79K3LqlcQs3A3JEsOK60SRq4T",
+          "width": 2268
+        }
+      ],
+      "place_id": "ChIJKc77NJ2LGGARIaQdb-CsP9U",
+      "plus_code": {
+        "compound_code": "MP7M+C9 Minato City, Tokyo, Japan",
+        "global_code": "8Q7XMP7M+C9"
+      },
+      "price_level": 2,
+      "rating": 4.2,
+      "reference": "ChIJKc77NJ2LGGARIaQdb-CsP9U",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 737,
+      "vicinity": "Minato City, Roppongi, 3 Chome\u221210\u22121 \u76f8\u9244\u30d5\u30ec\u30c3\u30b5\u30a4\u30f3"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.6639921,
+          "lng": 139.7320572
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.66537757989272,
+            "lng": 139.7333675798927
+          },
+          "southwest": {
+            "lat": 35.66267792010728,
+            "lng": 139.7306679201072
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "name": "um cafe",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2688,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108236279847786892292\">A Google User</a>"
+          ],
+          "photo_reference": "ATJ83zhrJqhkzoZQBHtN2ytZIoMTqJNODP8uNj4LxGrSFZcG7Q520dlFICg-yKrcQhzQ20IWLoAiZxvbAdVceLv6OgWkkAaE_tPQsQwO9gKQztkthdOPmfY0-eF4k4q2_orcGnfD2wWUNrgdwXRvUyoj2vUk1VigtMnsoY355L-QiylpSUhE",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJZXfFZ1mLGGARKELeFRbQFy4",
+      "plus_code": {
+        "compound_code": "MP7J+HR Minato City, Tokyo, Japan",
+        "global_code": "8Q7XMP7J+HR"
+      },
+      "rating": 5,
+      "reference": "ChIJZXfFZ1mLGGARKELeFRbQFy4",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "bar",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 26,
+      "vicinity": "Minato City, Roppongi, 4 Chome\u221210\u221211 \u516b\u5dfb\u30d3\u30eb 1\u968e"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.6626185,
+          "lng": 139.7340067
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.66388692989271,
+            "lng": 139.7352871298927
+          },
+          "southwest": {
+            "lat": 35.66118727010727,
+            "lng": 139.7325874701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+      "name": "mint cafe & pub roppongi",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1154,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112701163941935310427\">A Google User</a>"
+          ],
+          "photo_reference": "ATJ83zi6l9Pc9Gx5wkQfPs35_6n1bJ3bST10Pk6GMFItuWnFmEBbVB-vN4pNiv9fUIWqHzXsg1b0IBfUnYZYBki0vTuhorTD2G5-Ue61WiDh2qnCiuWW4qHdcR5-e5mzY-Y5Oho-Dsapt7_r0-Qk5dBqvx6cwGIlkVGp_EtqV8DNY1bFge8",
+          "width": 1732
+        }
+      ],
+      "place_id": "ChIJG1snEBuLGGAR-gjRB2zLutA",
+      "plus_code": {
+        "compound_code": "MP7M+2J Minato City, Tokyo, Japan",
+        "global_code": "8Q7XMP7M+2J"
+      },
+      "rating": 4,
+      "reference": "ChIJG1snEBuLGGAR-gjRB2zLutA",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 22,
+      "vicinity": "Minato City, Roppongi, 3 Chome\u221213\u22128 zonan\u30d3\u30eb 2F"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.6604523,
+          "lng": 139.7292314
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.66193302989272,
+            "lng": 139.7308202298927
+          },
+          "southwest": {
+            "lat": 35.65923337010728,
+            "lng": 139.7281205701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "name": "LOUNGE49",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2765,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112026470987391608825\">lm os</a>"
+          ],
+          "photo_reference": "ATJ83zibl9DK54M52kuo57ATF2s4AV4rx9oRYn_4LaERwBRWUogroz8SO8CSBh7Lo4t8hB3Gty_gojUlmdDNS4D5BKgF_600Fqn_rL4kcfH7KzYsDPFC6mo4qivNkY7P3G9M2WKpECnZ40pd8Es8qFs9APy3ipqFf4urKQGrSn5NInl2UcTz",
+          "width": 2196
+        }
+      ],
+      "place_id": "ChIJqSjz2bqLGGARi40He4VG47Q",
+      "plus_code": {
+        "compound_code": "MP6H+5M Minato City, Tokyo, Japan",
+        "global_code": "8Q7XMP6H+5M"
+      },
+      "rating": 5,
+      "reference": "ChIJqSjz2bqLGGARi40He4VG47Q",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "6 Chome-10-1 Roppongi, Minato City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.6639353,
+          "lng": 139.7313014
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.66523572989272,
+            "lng": 139.7326498298928
+          },
+          "southwest": {
+            "lat": 35.66253607010728,
+            "lng": 139.7299501701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "name": "Cafe Malins",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103232385730792485027\">A Google User</a>"
+          ],
+          "photo_reference": "ATJ83zj8qzCGWOpt7vnQHwKuwFBaSM2cIiwx4Upb_vQMoXQf2ZvE7MeObtLOl5tBWXWcVIKRfpdNHlkl05AV-dzoDMAScwdk0RzC8Ygz1px9M52glMGp71wh5lA5s8YBM93sDm1dsfXlNt8vuJnQzxPXbBuRR15F4MYChxxGXv4DgHahBkmD",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJn-8PuZGLGGARQ720LkbKHKY",
+      "plus_code": {
+        "compound_code": "MP7J+HG Minato City, Tokyo, Japan",
+        "global_code": "8Q7XMP7J+HG"
+      },
+      "rating": 3.8,
+      "reference": "ChIJn-8PuZGLGGARQ720LkbKHKY",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 6,
+      "vicinity": "Minato City, Roppongi, 7 Chome\u221214\u22123 2F"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.6627253,
+          "lng": 139.7319619
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.66416847989272,
+            "lng": 139.7332444298927
+          },
+          "southwest": {
+            "lat": 35.66146882010727,
+            "lng": 139.7305447701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "name": "Coffee Room RENOIR Roppongi",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3468,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115360212631242918127\">mi xi</a>"
+          ],
+          "photo_reference": "ATJ83zjXgsA1dsFqVVRjZs8K2qoAAX89QN9cGIedz7IOrn0CNpHSL8__0bFT6MjdtyihlXjkV_hgtn-Q9_jW6Jzo-3ZHmhLcq9uF4nJvHLqhHciBsOl4Gda778V9p3l2CckFoThWuUD4Z8wuOZ7-GhAvR6qjIW2xLDF-sUD3RLgE_RgBvA9w",
+          "width": 4624
+        }
+      ],
+      "place_id": "ChIJIRfL_XeLGGAR-NgJl5WJfnk",
+      "plus_code": {
+        "compound_code": "MP7J+3Q Minato City, Tokyo, Japan",
+        "global_code": "8Q7XMP7J+3Q"
+      },
+      "price_level": 2,
+      "rating": 3.6,
+      "reference": "ChIJIRfL_XeLGGAR-NgJl5WJfnk",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 510,
+      "vicinity": "Minato City, Roppongi, 6 Chome\u22121\u221224 2F"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.6621803,
+          "lng": 139.7306555
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.66360262989271,
+            "lng": 139.7319507298927
+          },
+          "southwest": {
+            "lat": 35.66090297010727,
+            "lng": 139.7292510701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "name": "Tsubakiya Coffee Roppongi",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101257099081959886642\">\u6df1\u91ce\u5584\u4fe1</a>"
+          ],
+          "photo_reference": "ATJ83zg12K313avLaTBTGgvTtqMmZyxtoK39GusQjtGwBuvnH7hmfWYteeoQi4y5cSyr3yQyrdJfIFO2elvvqghnFCQJCNx5bWRD9EKqizlf5mCZpkhg9lUQHY-J1W4Q3an84g0rvP7ub9QqzBf49_Gud4xP7E-FoJaqGsZdqBXb-sXgtTMa",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJNX7sjHeLGGARm3tdDOXBd68",
+      "plus_code": {
+        "compound_code": "MP6J+V7 Minato City, Tokyo, Japan",
+        "global_code": "8Q7XMP6J+V7"
+      },
+      "price_level": 3,
+      "rating": 3.8,
+      "reference": "ChIJNX7sjHeLGGARm3tdDOXBd68",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 445,
+      "vicinity": "Minato City, Roppongi, 6 Chome\u22122\u221235 \u30cf\u30de\u516d\u672c\u6728\u30d3\u30eb 2F"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.6634666,
+          "lng": 139.731705
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.66488242989272,
+            "lng": 139.7331454798927
+          },
+          "southwest": {
+            "lat": 35.66218277010728,
+            "lng": 139.7304458201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "name": "Hoshino Coffee Roppongi",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104805435719703050650\">\u5ba5\u4e98\u9673</a>"
+          ],
+          "photo_reference": "ATJ83zjGWJRCvgCU8m-ItF4_bx8CxxzFVMloCukmLGjf8gmSYiKhdXTHlw_9Trc_JUZ2AIPWCP2VLEstplqMBu_qiQxlebItrSel9wvYyiq3pSqcuQbJehk3dO-4zpWuODaLM1BBgjwboglH9CLytfcxqgIbAr0_zx_VOsU_p_vTxdBGczYt",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJCYd6BniLGGARDF_l21SrqFU",
+      "plus_code": {
+        "compound_code": "MP7J+9M Minato City, Tokyo, Japan",
+        "global_code": "8Q7XMP7J+9M"
+      },
+      "price_level": 2,
+      "rating": 3.5,
+      "reference": "ChIJCYd6BniLGGARDF_l21SrqFU",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 341,
+      "vicinity": "Minato City, Roppongi, 7 Chome\u221214\u22127 \u30c8\u30ea\u30cb\u30c6\u30a3\u30d3\u30eb \uff11F"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.6601085,
+          "lng": 139.7321266
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.66138677989272,
+            "lng": 139.7334410298927
+          },
+          "southwest": {
+            "lat": 35.65868712010727,
+            "lng": 139.7307413701072
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "name": "\u81ea\u5bb6\u7119\u714e\u73c8\u7432 \u30ab\u30d5\u30a7\u30fb\u30bf\u30d4\u30ed\u30b9",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101116097218336538698\">\u6797\u6b63\u8ad6</a>"
+          ],
+          "photo_reference": "ATJ83zi0mnti5pqP8YcKYvuK8P_J7q6o8JGZ7ps8Tk1Dofhj9MkhofmSRvbMDrjTDG8oX3uTiqBhliyutU58fo6DLbVU-Bkn_GD-oN-kJ0FmumRvQrFvW3-1G1_sXyZxzzg49rVZi4bML_IjzB7vF-jBhntpzTEZ9wXBG-ql7dEG63C7aN_V",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJgZygiZ2LGGARkaDee5_BaqE",
+      "plus_code": {
+        "compound_code": "MP6J+2V Minato City, Tokyo, Japan",
+        "global_code": "8Q7XMP6J+2V"
+      },
+      "rating": 4.7,
+      "reference": "ChIJgZygiZ2LGGARkaDee5_BaqE",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 97,
+      "vicinity": "Minato City, Roppongi, 6 Chome\u22128\u221228 \u5bae\u5d0e \u30d3\u30eb 2F"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.6626803,
+          "lng": 139.7327508
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.66413692989273,
+            "lng": 139.7342112798927
+          },
+          "southwest": {
+            "lat": 35.66143727010728,
+            "lng": 139.7315116201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "name": "Tully's Coffee",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1772,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111092119382923221223\">A Google User</a>"
+          ],
+          "photo_reference": "ATJ83zgi1SSxTeWcm4Y_BGojVCP579suJLUNj2uhbnHc-9PXkfqPgjEVqmKxAdCeSve6JKq6EqHKwP_6pcf4h-lBTRjwIhTj5vlLnMvEBfhw6sziqvaTqByiWEJ7nt_0ecVVPJtu4JZV_f8BU8PqZOajtESzkpyn21LSkDeWL-btLS1V6o_V",
+          "width": 1252
+        }
+      ],
+      "place_id": "ChIJS9ULRJ2LGGARzXtb0cCjmTc",
+      "plus_code": {
+        "compound_code": "MP7M+34 Minato City, Tokyo, Japan",
+        "global_code": "8Q7XMP7M+34"
+      },
+      "price_level": 2,
+      "rating": 3.8,
+      "reference": "ChIJS9ULRJ2LGGARzXtb0cCjmTc",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 562,
+      "vicinity": "Minato City, Roppongi, 5 Chome\u22121\u22123 \u30b4\u30c8\u30a6\u30d3\u30eb\u30c7\u30a3\u30f3\u30b0\uff11\uff33\uff34 \uff11\uff26"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.6604119,
+          "lng": 139.7328198
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.66177582989272,
+            "lng": 139.7340927798927
+          },
+          "southwest": {
+            "lat": 35.65907617010727,
+            "lng": 139.7313931201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "name": ".RAW",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 800,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116826459197301161851\">\u85e4\u539f\u7406\u8cb4</a>"
+          ],
+          "photo_reference": "ATJ83zg4Iv58XyjpOB3oe5shj2WN_4PJmQ0dpc3g0ThzVeGgeclpr_n107On33V_twXKhkFJyChwkWxKBevA9gHkzHa06qX04q4CJSDX4leER13C-ro11V_QArgQZbS1b1ZFUz7ZiMWkcj3_cQeWR5rIFXIIlSZaSFJbxN5V8MyxZuTM7Dj4",
+          "width": 1200
+        }
+      ],
+      "place_id": "ChIJQfi3bkaLGGARmcSBLYxhFzY",
+      "plus_code": {
+        "compound_code": "MP6M+54 Minato City, Tokyo, Japan",
+        "global_code": "8Q7XMP6M+54"
+      },
+      "rating": 4,
+      "reference": "ChIJQfi3bkaLGGARmcSBLYxhFzY",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "night_club",
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 131,
+      "vicinity": "Minato City, Roppongi, 5 Chome\u221210\u221232 1F"
+    }
+  ],
+  "status": "OK"
+}
