@@ -6,8 +6,12 @@ import os
 def main():
     API_key= os.environ['GoogleMapsAPI']
 
-    client = GoogleMapsClient(api_key=API_key,address= 'roppongi hills mori tower')
-    search_nearby_results = client.search_nearby("cafe",radius=200)
+    search_location = 'roppongi hills mori tower'
+    search_item = "cafe"
+    radius = 200
+
+    client = GoogleMapsClient(api_key=API_key,address= search_location)
+    search_nearby_results = client.search_nearby(search_item,radius=radius)
 
     client.pretty_json(search_nearby_results)
 
