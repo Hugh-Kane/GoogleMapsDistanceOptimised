@@ -49,7 +49,9 @@ Within the main.py document - adjust the following parameters.
 ### Output
 
 Example of a Short Output:
+
 """
+{
 ANTICO CAFFÈ AL AVIS - Roppongi Hills: 0.041935483870967745
 Hills Cafe / Space: 0.03457943925233645
 マックカフェ バイ バリスタ: 0.021621621621621623
@@ -58,6 +60,7 @@ Tsubakiya Coffee Roppongi: 0.012582781456953641
 Reino: 0.012537313432835822
 Three Point Cafe-ROPPONGI-: 0.011002444987775062
 EX GARDEN CAFE: 0.01029810298102981
+}
 """
 
 # Features <a name="Features"></a>
