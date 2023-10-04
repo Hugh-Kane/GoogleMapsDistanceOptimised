@@ -2,6 +2,7 @@
 
 ## Table of Contents
 - [Introduction](#introduction)
+- [Example](#example)
 - [Installation](#Installation)
 - [Usage](#Usage)
 - [Features](#Features)
@@ -9,10 +10,17 @@
 - [Change Log](#subsection-2)
 
 # Introduction <a name="introduction"></a>
-This is the introduction section.
+🌍✨ Explore Your Ideal Destination with Pinpoint Precision! 📍🚀
 
-![Test](https://i.imgur.com/CY3SKuW.jpeg)
+Introducing our cutting-edge Python-powered Google Maps API that goes beyond ordinary location searches. 🌟 Discover top-rated places tailored just for you, whether you're a foodie 🍔, an adventurer 🌄, or a culture connoisseur 🏛️.
 
+Our simple API prioritizes proximity, ensuring you're never too far from your next adventure. ⏳ So for those who prefer to take it easy on foot, our API ensures you reach your destination with convenience and ease!
+
+
+
+## Example <a name="example"></a>
+![GoogleMaps](https://i.imgur.com/O25fHAN.png){width=300px height=200px}
+![DistanceOptimisedAPI](https://i.imgur.com/LniqPNX.png){width=300px height=200px}
 
 ## Installation <a name="Installation"></a>
 This is section 1.
