@@ -11,7 +11,7 @@
 # Introduction <a name="introduction"></a>
 This is the introduction section.
 
-![Test](https://imgur.com/CY3SKuW)
+![Test](https://i.imgur.com/CY3SKuW.jpeg)
 
 
 ## Installation <a name="Installation"></a>
