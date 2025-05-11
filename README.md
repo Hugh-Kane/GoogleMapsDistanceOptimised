@@ -22,11 +22,11 @@ Our simple API prioritizes proximity, ensuring you're never too far from your ne
 
 As one can see, the first cafe listed when searching for cafes nearby the search area - Ark Hills Cafe appears. While this does seem like a nice cafe, it is a 20 minute walk away from the desired location. A similar observation can be made with the top 4 cafes which are recommended - they are too far.
 
-<img src="https://imgur.com/a6c1h4r" alt="GoogleMaps" style="width: 80%; height: auto;">
+<img src="https://i.imgur.com/a6c1h4r.png" alt="GoogleMaps" style="width: 80%; height: auto;">
 
 With the updated Distance Optimised search, we can see that the top cafes suggested are significantly closer to the search location - requiring substantially less walking & effort to get to these. These cafes are, however, not in a random order & still prioritises rating - hence, providing meaningful cafe suggestions, within walking distance.
 
-<img src="https://imgur.com/a/B75S9cU" alt="DistanceOptimizedAPI" style="width: 80%; height: auto;">
+<img src="https://i.imgur.com/5fn30ft.png" alt="DistanceOptimizedAPI" style="width: 80%; height: auto;">
 
 ## Installation <a name="Installation"></a>
 
